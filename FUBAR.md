@@ -17,3 +17,7 @@ This is the work alice and ted did on ted's computer...
 what's the difference between jesus and a picture of jesus?
 
 
+
+Here's ted and carol's new feature.
+
+Don't try to crucify yourself. You'll never get in the last nail.
