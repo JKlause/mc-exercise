@@ -1,3 +1,11 @@
+# mc-exercise
+
+Never work on master.
+
+Push before you branch.
+
+Team approval for merges.
+
 As Sensei Dave always says, "Pull Before You Push."
 
 Working and pulling into Master during development caused lots of problems.
